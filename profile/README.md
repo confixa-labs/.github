@@ -2,7 +2,7 @@
   <img src="https://storage.googleapis.com/confixa-files/logo-text.png" alt="Confixa Logo" height="100" />
 </p>
 
-<h1 align="center">Welcome to Confixa</h1>
+<!-- <h1 align="center">Welcome to Confixa</h1> -->
 
 <p align="center">
   <em>Enabling faster, safer application delivery and operations for growing teams.</em>
