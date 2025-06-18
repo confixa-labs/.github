@@ -21,7 +21,7 @@ At Confixa Labs, we build open-source tools, Helm charts, and dev automation to 
 - 📘 [Documentation](https://docs.confixa.com)  
 - 🎯 [Website](https://www.confixa.com)  
 - 📦 [Helm Charts on Artifact Hub](https://artifacthub.io/packages/helm/confixa/confixa)  
-- 💬 [Join our Discord](https://discord.gg/fNDXcDgQ)
+- 💬 [Join our Discord](https://discord.gg/Sn8XM6NHTs)
 - 🐦 [Follow us on Twitter](https://twitter.com/@confixa7)  
 - ▶️ [Watch on YouTube](https://youtube.com/@confixa)
 
