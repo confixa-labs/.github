@@ -12,24 +12,18 @@
   <img src="https://www.confixa.com/assets/cover-banner.png" alt="Confixa Banner" width="100%" />
 </p>
 
----
-
-### 🛠 What We Do
+## 🛠 What We Do
 
 At Confixa Labs, we build open-source tools, Helm charts, and dev automation to make cloud-native application delivery simpler and more secure.
 
----
-
-### 🌐 Useful Links
+## 🌐 Useful Links
 
 - 📘 [Documentation](https://docs.confixa.com)  
 - 🎯 [Website](https://www.confixa.com)  
 - 📦 [Helm Charts on Artifact Hub](https://artifacthub.io/packages/helm/confixa/confixa)  
 - 💬 [Join our Discord](https://discord.gg/your-server)
 
----
-
-### ❤️ Contribute With Us
+## ❤️ Contribute With Us
 
 We welcome community contributions!  
 Explore our work and feel free to open issues, discussions, and pull requests.
