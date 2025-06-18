@@ -1,1 +1,37 @@
-# Confixa
+<p align="center">
+  <img src="https://www.confixa.com/logo.svg" alt="Confixa Logo" height="100" />
+</p>
+
+<h1 align="center">Welcome to Confixa</h1>
+
+<p align="center">
+  <em>Enabling faster, safer application delivery and operations for growing teams.</em>
+</p>
+
+<p align="center">
+  <img src="https://www.confixa.com/assets/cover-banner.png" alt="Confixa Banner" width="100%" />
+</p>
+
+---
+
+### 🛠 What We Do
+
+At Confixa Labs, we build open-source tools, Helm charts, and dev automation to make cloud-native application delivery simpler and more secure.
+
+---
+
+### 🌐 Useful Links
+
+- 📘 [Documentation](https://docs.confixa.com)  
+- 🎯 [Website](https://www.confixa.com)  
+- 📦 [Helm Charts on Artifact Hub](https://artifacthub.io/packages/helm/confixa/confixa)  
+- 💬 [Join our Discord](https://discord.gg/your-server)
+
+---
+
+### ❤️ Contribute With Us
+
+We welcome community contributions!  
+Explore our work and feel free to open issues, discussions, and pull requests.
+
+[Visit Our Repos →](https://github.com/orgs/confixa-labs/repositories)
