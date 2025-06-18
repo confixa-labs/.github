@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.confixa.com/logo.svg" alt="Confixa Logo" height="100" />
+  <img src="https://storage.googleapis.com/confixa-files/logo-text.png" alt="Confixa Logo" height="100" />
 </p>
 
 <h1 align="center">Welcome to Confixa</h1>
