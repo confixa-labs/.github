@@ -8,13 +8,13 @@
   <em>Enabling faster, safer application delivery and operations for growing teams.</em>
 </p>
 
-<p align="center">
-  <img src="https://www.confixa.com/assets/cover-banner.png" alt="Confixa Banner" width="100%" />
-</p>
-
 ## 🛠 What We Do
 
 At Confixa Labs, we build open-source tools, Helm charts, and dev automation to make cloud-native application delivery simpler and more secure.
+
+<p align="center">
+  <img src="https://storage.googleapis.com/confixa-files/cover-banner.png" alt="Confixa Banner" width="100%" />
+</p>
 
 ## 🌐 Useful Links
 
